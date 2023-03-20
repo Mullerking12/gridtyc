@@ -1,0 +1,117 @@
+.daniel {
+    color: antiquewhite;
+    border-radius: 8px;
+    grid-column: 1/3;
+    grid-row: 1;
+    padding: 10px;
+
+    overflow: hidden;
+    transition-duration: 0.8s;
+    transition-property: transform;
+}
+.daniel:hover {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+
+
+.jonathan {
+    background-color: #434242;
+    border-radius: 8px;
+    grid-row: 1;
+    padding: 10px;
+
+
+}
+.jenni {
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 8px;
+    grid-column: 1;
+    grid-row: 2;
+    padding: 10px;
+
+}
+.patrick {
+    background-color: #2C3333;
+    color: antiquewhite;
+    border-radius: 8px;
+    grid-column: 2/4;
+    grid-row: 2;
+    padding: 10px;
+
+    overflow: hidden;
+    transition-duration: 0.8s;
+    transition-property: transform; 
+
+
+}
+
+.patrick:hover {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+.kira {
+    background-color: antiquewhite;
+    color: black;
+    border-radius: 8px;
+    grid-row: 1/3;
+    padding: 10px;
+
+}
+.img {
+    float: left;
+    margin-right: 10px;
+    
+}
+.daniel {
+    background-color: purple;
+}
+.dani-top p {
+    line-height: ;
+    font-size: 100px;
+    display: inline-block;
+    position: relative;
+    
+    
+}
+.dani-low p {
+    font-size: 5px;
+    opacity: 70%;
+    margin: 50px 50px 50px 50px;
+    
+}
+.verify {
+    opacity: 50%;
+}
+body {
+    width: 70%;
+    align-items: center;
+    margin: 20px 50px 30px 150px;
+    font-size: 13px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: #CEDDEF;
+    padding: 80px;
+    max-width: 1440px;
+    
+    
+}
+.whole {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr;
+    grid-template-rows: 2;
+    grid-gap: 1.3em;
+    grid-area: auto;
+    max-width: 1440px;
+    
+    justify-content: space-evenly;
+    
+}
+h3 {
+    font-size: 17px;
+}
+.quotes {
+    position: absolute;
+    margin: 0 20px 0 300px;
+    opacity: 50%;
+}
