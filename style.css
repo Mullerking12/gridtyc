@@ -9,6 +9,7 @@
     grid-area: daniel;
     padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
+    margin: 10px auto 20px auto;
 
 }
 
@@ -21,6 +22,7 @@
     grid-area: jonathan;
     padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
+    margin: 10px auto 20px auto;
 
 
 
@@ -32,7 +34,7 @@
     grid-template-columns: jenni;
     padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    
+    margin: 10px auto 20px auto;
 
 
 }
@@ -43,7 +45,7 @@
     grid-area: patrick;
     padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-
+    margin: 10px auto 20px auto;
 
     
 
@@ -58,7 +60,7 @@
     grid-area: kira;
     padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-
+    margin: 10px auto 20px auto;
     
 
 }
