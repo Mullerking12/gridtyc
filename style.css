@@ -7,7 +7,7 @@
     color: antiquewhite;
     border-radius: 10px;
     grid-area: daniel;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
    
 
@@ -20,7 +20,7 @@
     background-color: #434242;
     border-radius: 10px;
     grid-area: jonathan;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
    
 
@@ -41,7 +41,7 @@
     color: antiquewhite;
     border-radius: 10px;
     grid-area: patrick;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
    
     
@@ -55,7 +55,7 @@
     color: black;
     border-radius: 10px;
     grid-area: kira;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
   
     
