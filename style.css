@@ -7,9 +7,9 @@
     color: antiquewhite;
     border-radius: 10px;
     grid-area: daniel;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 10px auto 20px auto;
+    margin: 50px 10px 20px 10px;
 
 }
 
@@ -20,9 +20,9 @@
     background-color: #434242;
     border-radius: 10px;
     grid-area: jonathan;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 10px auto 20px auto;
+    margin: 50px 10px 20px 10px;
 
 
 
@@ -30,12 +30,11 @@
 .jenni {
     background-color: antiquewhite;
     color: black;
-    border-radius: 10px;
+    border-radius: 20px;
     grid-template-columns: jenni;
     padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 10px auto 20px auto;
-
+    margin: 50px 10px 20px 10px;
 
 }
 .patrick {
@@ -43,9 +42,9 @@
     color: antiquewhite;
     border-radius: 10px;
     grid-area: patrick;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 10px auto 20px auto;
+    margin: 50px 10px 20px 10px;
 
     
 
@@ -58,9 +57,9 @@
     color: black;
     border-radius: 10px;
     grid-area: kira;
-    padding: 10px;
+    padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 10px auto 20px auto;
+    margin: 50px 10px 20px 10px;
     
 
 }
