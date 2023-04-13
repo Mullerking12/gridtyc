@@ -6,7 +6,7 @@
 .daniel {
     color: antiquewhite;
     border-radius: 10px;
-    grid-template-coloumns: daniel;
+    grid-area: daniel;
     padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
    
@@ -19,7 +19,7 @@
 .jonathan {
     background-color: #434242;
     border-radius: 10px;
-    grid-template-columns: jonathan;
+    grid-area: jonathan;
     padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
    
@@ -30,7 +30,7 @@
     background-color: antiquewhite;
     color: black;
     border-radius: 20px;
-    grid-template-columns: jenni;
+    grid-area: jenni;
     padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
    
@@ -40,7 +40,7 @@
     background-color: #2C3333;
     color: antiquewhite;
     border-radius: 10px;
-    grid-template-columns: patrick;
+    grid-area: patrick;
     padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
    
