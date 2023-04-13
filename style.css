@@ -6,10 +6,10 @@
 .daniel {
     color: antiquewhite;
     border-radius: 10px;
-    grid-area: daniel;
+    grid-template-coloumns: daniel;
     padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 50px 10px 20px 10px;
+   
 
 }
 
@@ -19,11 +19,10 @@
 .jonathan {
     background-color: #434242;
     border-radius: 10px;
-    grid-area: jonathan;
+    grid-template-columns: jonathan;
     padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 50px 10px 20px 10px;
-
+   
 
 
 }
@@ -34,18 +33,17 @@
     grid-template-columns: jenni;
     padding: 10px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 50px 10px 20px 10px;
+   
 
 }
 .patrick {
     background-color: #2C3333;
     color: antiquewhite;
     border-radius: 10px;
-    grid-area: patrick;
+    grid-template-columns: patrick;
     padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 50px 10px 20px 10px;
-
+   
     
 
 }
@@ -59,7 +57,7 @@
     grid-area: kira;
     padding: 20px;
     box-shadow: 0 5px 10px rgba (0,0,0,0.5);
-    margin: 50px 10px 20px 10px;
+  
     
 
 }
@@ -72,7 +70,7 @@
     background-color: purple;
 }
 .dani-top p {
-    line-height: ;
+   
     font-size: 100px;
     display: inline-block;
     position: relative;
